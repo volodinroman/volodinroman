@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/volodinroman/maya-cmake)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=volodinroman&repo=maya-cmake)](https://github.com/volodinroman/maya-cmake)
