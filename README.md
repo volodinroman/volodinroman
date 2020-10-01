@@ -13,9 +13,19 @@
             Pipeline TD
         </td>
         <td width="20%">
-            <img src="https://raw.githubusercontent.com/volodinroman/volodinroman/master/images/mln.png" alt="Mulan 2020"><br/>
+            <img src="https://raw.githubusercontent.com/volodinroman/volodinroman/master/images/mln.jpg" alt="Mulan 2020"><br/>
             <b>Mulan</b><br/>
             Pipeline TD
+        </td>
+        <td width="20%">
+            <img src="https://raw.githubusercontent.com/volodinroman/volodinroman/master/images/ab2.jpg" alt="Angry Birds 2"><br/>
+            <b>Angry Birds 2</b><br/>
+            Pipeline TD
+        </td>
+        <td width="20%">
+            <img src="https://raw.githubusercontent.com/volodinroman/volodinroman/master/images/wot.jpg" alt="World of Tanks"><br/>
+            <b>Angry Birds 2</b><br/>
+            Technical Artist
         </td>
     </tr>
     
