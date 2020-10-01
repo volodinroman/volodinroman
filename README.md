@@ -1,6 +1,6 @@
 ### Hi there
 
-# My notable projects
+# Notable projects
 
 <table>
     <tr>
