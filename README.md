@@ -1,6 +1,8 @@
 ### Hi there
 
+<!--
 # Notable projects
+
 
 <table>
     <tr>
@@ -20,7 +22,5 @@
             <img src="https://raw.githubusercontent.com/volodinroman/volodinroman/master/images/wot.jpg" alt="World of Tanks"><br/>
         </td>
     </tr>
-    
 </table>
-
-
+-->
